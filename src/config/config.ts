@@ -1,8 +1,8 @@
 export const config = {
   "dev": {
-    "username": "",
-    "password": "",
-    "database": "",
+    "username": "udagramdiattadev",
+    "password": "udagramdiattadev",
+    "database": "udagramdiattadev",
     "host": "udagramdiattadev.cqtolsa6cpzs.us-east-1.rds.amazonaws.com",
     "dialect": "postgres",
     "aws_region": "us-east-1",
