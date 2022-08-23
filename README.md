@@ -37,3 +37,11 @@ npm run dev
 
 Developer mode runs off the TypeScript source. Any saves will reset the server and run the latest version of the codebase. 
 
+***
+## Issue with `npm run dev`
+If you have some issue with `npm run dev` make this 2 following command for fix this
+```bash
+npm install sequelize@4.44.4
+npm install pg@8.2.1
+```
+
